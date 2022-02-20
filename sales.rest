@@ -1,0 +1,4 @@
+POST http://localhost:8080/sales
+Content-Type: application/json
+
+{"total":123.46}
